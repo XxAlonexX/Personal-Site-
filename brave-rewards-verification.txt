@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: xxalonexx.xyz
+Token: 2fd4d2de75d2a6f2f6731441bf6ab5e68cc4ec68ad9999dc57257d0ed8939b0a
